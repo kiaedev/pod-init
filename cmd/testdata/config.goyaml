@@ -1,0 +1,6 @@
+debug: true
+
+home: {{ .HOME }}
+
+mysql:
+  username: {{ .MYSQL_USER }}

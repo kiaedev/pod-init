@@ -1,0 +1,6 @@
+debug: true
+
+home: /Users/yanbo
+
+mysql:
+  username: root
